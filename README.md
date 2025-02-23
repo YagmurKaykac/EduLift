@@ -22,6 +22,6 @@ We used Microsoft Copilot Studio as the core of this project. Initially, we expl
 Understanding the Dataset
 Our dataset consists of 20 features that influence student performance, grouped into three main categories. Behavioral & Study Factors include metrics such as Hours_Studied, Attendance, Sleep_Hours, Previous_Scores, Motivation_Level, Tutoring_Sessions, and Physical_Activity, which directly impact a student's learning habits and academic engagement. Parental & Socioeconomic Factors cover aspects like Parental_Involvement, Family_Income, and Parental_Education_Level, reflecting the role of family background in academic success. School & External Factors account for elements such as Teacher_Quality, School_Type, Peer_Influence, and Access_to_Resources, highlighting the broader educational environment. The target variable, Exam_Score, represents the final exam performance, serving as the key measure of student outcomes.
 
-!edulift1(https://github.com/user-attachments/assets/c1a2ede9-54a2-4839-8beb-7098087df387)
-!edulift(https://github.com/user-attachments/assets/808f037b-c7a1-43d6-bc3a-7e7719a8d824)
-!edulift(https://github.com/user-attachments/assets/07f49a6e-3f58-4903-8db6-dd97f569922b)
+![WhatsApp Görsel 2025-02-23 saat 22 04 27_a6e2eaa0](https://github.com/user-attachments/assets/eeb5c67b-b8e2-401e-97e3-a5d816fbd3e0)
+![WhatsApp Görsel 2025-02-23 saat 22 04 27_edb5efcf](https://github.com/user-attachments/assets/608c2578-1545-4a77-9026-6b5dbfc3ed36)
+![WhatsApp Görsel 2025-02-23 saat 22 04 27_31153e85](https://github.com/user-attachments/assets/d4d1e9c5-4b95-40ba-b78b-5cf641d92c80)
