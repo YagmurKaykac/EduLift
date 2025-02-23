@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  background-color: black;
+  color: white;
+}
+
+/* Add a subtle glow effect to cards on hover */
+.hover\:border-pink-500\/40:hover {
+  box-shadow: 0 0 20px rgba(236, 72, 153, 0.2);
+}
