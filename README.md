@@ -10,8 +10,8 @@ Teachers spend a significant amount of time on administrative tasks such as grad
 
 How AI Benefits Teachers
 - Time-Saving : Automates grading and report generation.
--Reduced Workload : Frees up time for lesson planning and individualized teaching.
--Increased Efficiency : Provides insights for real-time adjustments in teaching.
+- Reduced Workload : Frees up time for lesson planning and individualized teaching.
+- Increased Efficiency : Provides insights for real-time adjustments in teaching.
 
 Technical Process 
 We used Microsoft Copilot Studio as the core of this project. Initially, we explored Azure Machine Learning (ML) for deeper student performance analysis, but due to technical limitations, we pivoted to Copilot AI for real-time analytics and recommendations.
