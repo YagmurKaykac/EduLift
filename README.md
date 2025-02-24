@@ -1,5 +1,7 @@
 # EduLift
 
+This project was created by Rahiq Issam and Beyza Nur Ulu.
+
 [Edit in StackBlitz next generation editor ⚡️](https://stackblitz.com/~/github.com/RayIssam/EduLift)
 
 ## AI-Powered Teacher Assistant
